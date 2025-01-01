@@ -39,7 +39,13 @@
 
 **What obstacles have you overcome in the past 1-5 years?**
 ```
-(Enter your answer here)
+financial difficulties, yeah i had a hard time always thinking about money and it was tiring.
+However i realized money is just a tool to design the life i want. it is not my Goal.
+
+Career Goal Struggle, Figuring Out What Tech Field I Want To Pursue
+I was stuck thinking about what I would like to be in the next few years. what a software engineer would look like.
+I thought a lot about the growth opportunities as well as my interests. and. finally I chose FLutter as my goal to aim for. at least for the next 5 years
+
 ```
 
 > [!TIP]
@@ -55,7 +61,16 @@
 
 **What significant challenges are you facing right now?**
 ```
-(Enter your answer here)
+Englísh English English.
+
+Currently at work I use English to communicate with partners in China, however, I still lack confidence
+My first goal is to be fluent in English
+
+In addition, with the career goals I set, I want to have more achievements in Flutter.
+I will try to have at least 5 more flutter projects that can show my flutter work experience.
+From there, I can grow up myself and find opportunities to open up about flutter jobs in the future
+
+A little embarrassed but I need to lose weight and exercise more.
 ```
 
 > [!IMPORTANT]
@@ -71,19 +86,24 @@
 > Focus on one or multiple categories that resonate with your experiences.
 
 Explore problems in areas such as:
-- [ ] Weight loss
+- [x] Weight loss
 - [ ] Overcoming mental issues
-- [ ] Confidence
-- [ ] Finance
-- [ ] Language
-- [ ] Career growth
+- [x] Confidence
+- [x] Finance
+- [x] Language
+- [x] Career growth
 - [ ] Investments
-- [ ] Learning skills
+- [x] Learning skills
 - [ ] Other personal or professional challenges
 
 **Categories you relate to:**
 ```
-(Enter your answer here)
+Weight loss
+Confidence
+Finance
+Language
+Career growth
+Learning skills
 ```
 
 > [!NOTE]
@@ -103,7 +123,7 @@ Explore problems in areas such as:
 > Identifying your core values ensures that your goals align with what truly matters to you, helping you stay motivated and focused on meaningful outcomes.
 
 ```
-(Enter your answer here)
+I value love, support, good facilities, comfortable and modern life, health, family
 ```
 
 - **What’s your mission or passion?**
@@ -112,7 +132,9 @@ Explore problems in areas such as:
 > Understanding your mission or passion reveals your driving force. This clarity will guide your actions and decisions, ensuring you work on problems that resonate with your purpose.
 
 ```
-(Enter your answer here)
+the dream that I always wanted to design for my life. I want to travel around the world to explore everything with my companion. record beautiful moments in life.
+
+Helping people. I am a software engineer but I also love writing content creator and the career that I think I will be happiest if I take on is Engineer Support Flutter OpenSource.
 ```
 
 - **How can you help people?** (Think in terms of "helping people")
@@ -120,7 +142,9 @@ Explore problems in areas such as:
 > Shifting your mindset to focus on helping others allows you to frame your skills and experiences as valuable contributions. This not only builds a sense of fulfillment but also helps in identifying opportunities to create impact.
 
 ```
-(Enter your answer here)
+For programmers, learning from docx and learning from examples are great things.
+I can say I am quite active in building personal codes in open source form.
+Currently I am also managing and building 2 open source orgs. where I build topics around the field I am developing.
 ```
 
 ---
@@ -137,7 +161,12 @@ If I were to suddenly lose _______ (the results I’ve achieved) and only had my
 > This exercise helps you think about the core principles that you would rely on to rebuild your progress.
 
 ```
-(Enter your answer here)
+If I lose everything I've built
+first i will try to contact, seek help to see if i can get it back (CTRL Z xD)
+
+in case i can't get it back, i will upload the source codes i still keep on my computer,
+i am quite confident and backup on my computer. at least i will still keep important projects including many branches and private source code
+
 ```
 
 **Example:**
@@ -152,7 +181,12 @@ If I were to suddenly lose _______ (the results I’ve achieved) and only had my
 > Break down your proven methods into smaller, repeatable steps. This will help you ensure that your framework is adaptable to new challenges. Identify the key principles or strategies that consistently lead to success.
 
 ```
-(Write down what you will do here, to make sure you understand the problem clearly.)
+instead of choosing tiktok and watching facebook, should spend time watching videos about technology
+instead of playing games, should use gaming time to use Duolinggo
+Current plans are too close together and if new plans are made, it will be difficult to rearrange the schedule.
+need to concentrate and avoid distraction
+Always textnote important things and review them at the end of the week.
+
 ```
 
 2. **Start Small**
@@ -160,7 +194,8 @@ If I were to suddenly lose _______ (the results I’ve achieved) and only had my
 > Focus on quick wins to rebuild momentum and validate your framework. Prioritize the most impactful actions for immediate results. This helps in regaining confidence and measuring progress incrementally.
 
 ```
-(Write down what you will do here, to make sure you understand the problem clearly.)
+Maintaining habits should be a top priority, most failures are due to not having built a habit.
+should try to complete the habit for at least 21 consecutive days.
 ```
 
 3. **Iterate and Improve**
@@ -168,7 +203,7 @@ If I were to suddenly lose _______ (the results I’ve achieved) and only had my
 > Continuously evaluate and adjust your strategies to fit the current context. Use feedback and insights from each step to refine your approach. This iterative process strengthens your framework and prepares it for future challenges.
 
 ```
-(Write down what you will do here, to make sure you understand the problem clearly.)
+I am currently planning on G calendar. I need to tweak the calendar each week to best suit the current situation and conditions
 ```
 
 ---
